@@ -483,6 +483,7 @@ scalar_coupling_contributions.csv - The scalar coupling constants in train.csv (
   - nb55で決めたハイパラで実行
   - cv_score: -1.53306
   - ---> 過去最高スコア
+
   | type | score   |
   | ---- | ------- |
   | 0 (1JHC)   | -0.4634 |
