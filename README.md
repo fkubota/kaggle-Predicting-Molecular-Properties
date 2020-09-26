@@ -421,6 +421,7 @@ scalar_coupling_contributions.csv - The scalar coupling constants in train.csv (
   - いくつかのモデルを試した
   - データは500000(1/9 程度)だけ使用した
   - timeには、グリッドサーチも入っている
+
    |         model         | cv_score(mae) |     time     |
    |:---------------------:|:-------------:|:------------:|
    |   EtraTreeRegressor   |     0.435     |    15 min    |
